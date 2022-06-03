@@ -1,0 +1,78 @@
+.label {
+  display: block;
+  border: none;
+  font-size: 48px;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  font-weight: 300;
+  color: #8f8f8f;
+  z-index: -1;
+  -webkit-transition: all 0.2s ease;
+  transition: all 0.2s ease;
+}
+
+.active .label {
+  font-weight: 300;
+  font-size: 22px;
+  -webkit-transform: translate(-160%, -100%);
+          transform: translate(-160%, -100%);
+}
+
+.input:focus {
+  outline: 0;
+}
+
+.input {
+  font-size: 28px;
+  font-weight: 300;
+  border-radius: 2px;
+  padding-left: 2px;
+  border: none;
+  width: 80%;
+  background: rgba(0, 0, 0, 0);
+  overflow-x: hidden;
+}
+
+.container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  max-width: 960px;
+  padding: 20px 10px;
+  margin: auto;
+}
+
+.inputGroup {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-flow: wrap row;
+          flex-flow: wrap row;
+  position: relative;
+}
+
+.inputGroup label,
+.inputGroup input {
+  -webkit-box-flex: 0;
+      -ms-flex: 0 0 100%;
+          flex: 0 0 100%;
+  max-width: 100%;
+}
+
+.border {
+  border-bottom: 2px solid #1890ff;
+  width: 10%;
+  -webkit-transition: width 0.2s ease;
+  transition: width 0.2s ease;
+}
+
+.active .border {
+  width: 100%;
+}
+/*# sourceMappingURL=TodoInput.css.map */
