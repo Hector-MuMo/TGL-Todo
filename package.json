@@ -2,7 +2,7 @@
   "name": "todo-web",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://github.com/Hector-MuMo/TGL-Todo",
+  "homepage":"https://hector-mumo.github.io/TGL-Todo/",
   "dependencies": {
     "@ant-design/icons": "^4.7.0",
     "@testing-library/jest-dom": "^5.16.4",
