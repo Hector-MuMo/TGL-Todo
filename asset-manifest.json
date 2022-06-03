@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Hector-MuMo/TGL-Todo/static/css/main.734038f3.css",
-    "main.js": "/Hector-MuMo/TGL-Todo/static/js/main.7d9040d8.js",
-    "static/js/787.e28740e6.chunk.js": "/Hector-MuMo/TGL-Todo/static/js/787.e28740e6.chunk.js",
-    "index.html": "/Hector-MuMo/TGL-Todo/index.html",
-    "main.734038f3.css.map": "/Hector-MuMo/TGL-Todo/static/css/main.734038f3.css.map",
-    "main.7d9040d8.js.map": "/Hector-MuMo/TGL-Todo/static/js/main.7d9040d8.js.map",
-    "787.e28740e6.chunk.js.map": "/Hector-MuMo/TGL-Todo/static/js/787.e28740e6.chunk.js.map"
+    "main.css": "/TGL-Todo/static/css/main.734038f3.css",
+    "main.js": "/TGL-Todo/static/js/main.d2e14f0d.js",
+    "static/js/787.e28740e6.chunk.js": "/TGL-Todo/static/js/787.e28740e6.chunk.js",
+    "index.html": "/TGL-Todo/index.html",
+    "main.734038f3.css.map": "/TGL-Todo/static/css/main.734038f3.css.map",
+    "main.d2e14f0d.js.map": "/TGL-Todo/static/js/main.d2e14f0d.js.map",
+    "787.e28740e6.chunk.js.map": "/TGL-Todo/static/js/787.e28740e6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.734038f3.css",
-    "static/js/main.7d9040d8.js"
+    "static/js/main.d2e14f0d.js"
   ]
 }
